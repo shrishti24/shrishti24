@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shrishti Gupta
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning DotNet, DevOps
-- 💞️ I’m currently working in Harman 
+- 
 - 
 
 <!---
